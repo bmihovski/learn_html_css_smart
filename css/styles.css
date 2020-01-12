@@ -19,3 +19,21 @@ h1 {
 .standout {
     color: red;
 }
+p.spacing {
+    letter-spacing: 2em;
+    word-spacing: 1em;
+    line-height: 3em;
+}
+h3 {
+    text-align: center;
+}
+p.alignment {
+    text-align: justify;
+}
+p.tabbed {
+    text-indent: 2em;
+}
+blockquote {
+    text-size: -.9em;
+    color: gray;
+}
