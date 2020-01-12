@@ -37,3 +37,9 @@ blockquote {
     text-size: -.9em;
     color: gray;
 }
+p.offset {
+    margin: 2em;
+}
+.enclosed {
+    border: 3px solid red;
+}
