@@ -43,3 +43,6 @@ p.offset {
 .enclosed {
     border: 3px solid red;
 }
+h4, p.mid {
+    text-align: center;
+}
