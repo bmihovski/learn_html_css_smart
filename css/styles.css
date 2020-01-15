@@ -59,3 +59,13 @@ img.has-own-line {
 img.inset {
     margin-left: 2em;
 }
+img.mid {
+    margin: 0 auto 0 auto;
+}
+img.floated {
+    float: left;
+    margin-right: .5em;
+}
+p.clr {
+    clear: both;
+}
